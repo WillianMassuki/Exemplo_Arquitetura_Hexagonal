@@ -76,12 +76,8 @@ Testabilidade elevada
 Inversão de dependência
 
 👤 Autor
-Seu Nome
+Willian Massuki Maeda
 
 📝 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
-
-less
-Copiar
-Editar
 
