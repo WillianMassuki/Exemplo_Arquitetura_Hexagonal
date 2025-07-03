@@ -1,4 +1,4 @@
-# 📦 Nome do Projeto
+# 📦 Projeto Exemplo Arquitetura Hexagonal
 
 Projeto Java com Spring Boot utilizando **Arquitetura Hexagonal (Ports and Adapters)** para promover uma separação clara de responsabilidades, facilitar testes e garantir maior manutenibilidade do código.
 
