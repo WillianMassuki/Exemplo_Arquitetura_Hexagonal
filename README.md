@@ -33,7 +33,7 @@ Java 17+
 
 Maven 3.8+
 
-IDE (IntelliJ, VS Code, etc.)
+IDE: IntelliJ
 
 # Build do projeto
 mvn clean install
@@ -44,9 +44,6 @@ mvn spring-boot:run
 🧪 Testes
 Para rodar os testes:
 
-bash
-Copiar
-Editar
 mvn test
 
 📌 Principais Tecnologias
